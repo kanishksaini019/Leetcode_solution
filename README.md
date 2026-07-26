@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0459-repeated-substring-pattern](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1392-longest-happy-prefix) |
