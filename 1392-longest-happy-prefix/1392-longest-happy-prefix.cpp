@@ -36,16 +36,16 @@ public:
           }
         }
     }
-    string ans="";
+    int len=0;
     for(int i=0;i<n;i++)
     {
         if(z[i]+i==n)
         {
-ans=s.substr(i,z[i]);
-break;
+ if(i+z[i]==n)
+        len=max(len,z[i]);
         }
     }
-    return ans;    
+    return s.substr(0,len);    
      
     }
 };
