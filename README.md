@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3340-check-balanced-string](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3340-check-balanced-string) |
 ## String Matching
 |  |
 | ------- |
