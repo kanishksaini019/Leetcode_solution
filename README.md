@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0344-reverse-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -77,5 +79,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0389-find-the-difference) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
