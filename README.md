@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 ## Counting
 |  |
 | ------- |
@@ -93,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
