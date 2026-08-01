@@ -65,15 +65,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,9 +86,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 ## Array
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
