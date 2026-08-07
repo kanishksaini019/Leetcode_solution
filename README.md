@@ -105,10 +105,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0739-daily-temperatures) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
