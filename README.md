@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0043-multiply-strings) |
+| [0735-asteroid-collision](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0042-trapping-rain-water) |
+| [0735-asteroid-collision](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
