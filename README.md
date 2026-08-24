@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0389-find-the-difference) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -223,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
