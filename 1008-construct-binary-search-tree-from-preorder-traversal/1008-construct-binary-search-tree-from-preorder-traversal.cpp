@@ -12,7 +12,7 @@
 class Solution {
 public:
 
-TreeNode* bst(vector<int> preorder,int bound,int& i)
+TreeNode* bst(vector<int>& preorder,int bound,int& i)
 {
 if(i==preorder.size()||preorder[i]>bound)
 return NULL;
