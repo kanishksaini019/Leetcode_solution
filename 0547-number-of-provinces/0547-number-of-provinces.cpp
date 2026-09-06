@@ -1,6 +1,6 @@
 class Solution {
 public:
-void dfs(vector<vector<int>> adjls,int i,vector<int>& vs)
+void dfs(vector<vector<int>>& adjls,int i,vector<int>& vs)
 {
     vs[i]=1;
 for(auto it:adjls[i])
