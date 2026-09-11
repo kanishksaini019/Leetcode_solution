@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1020-number-of-enclaves) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
 |  |
@@ -331,5 +335,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
