@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0344-reverse-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0127-word-ladder) |
 | [0219-contains-duplicate-ii](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0389-find-the-difference) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0200-number-of-islands) |
@@ -381,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
