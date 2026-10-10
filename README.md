@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0257-binary-tree-paths) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0785-is-graph-bipartite) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Kosaraju's Algorithm
