@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0735-asteroid-collision) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Array
 |  |
 | ------- |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4062-transform-array-using-pair-operations) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -418,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Shortest Path
 |  |
 | ------- |
@@ -459,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1584-min-cost-to-connect-all-points) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
