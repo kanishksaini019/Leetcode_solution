@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2223-sum-of-scores-of-built-strings) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Suffix Array
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Array
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1584-min-cost-to-connect-all-points) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4062-transform-array-using-pair-operations) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -469,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Enumeration
+|  |
+| ------- |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 <!---LeetCode Topics End-->
