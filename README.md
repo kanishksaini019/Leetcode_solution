@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1584-min-cost-to-connect-all-points) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4062-transform-array-using-pair-operations) |
