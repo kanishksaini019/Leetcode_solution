@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3340-check-balanced-string](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3340-check-balanced-string) |
+| [4030-check-ascii-palindromic](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4030-check-ascii-palindromic) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## String Matching
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [4030-check-ascii-palindromic](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4030-check-ascii-palindromic) |
 ## Math
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0389-find-the-difference) |
+| [4030-check-ascii-palindromic](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4030-check-ascii-palindromic) |
 ## Sorting
 |  |
 | ------- |
