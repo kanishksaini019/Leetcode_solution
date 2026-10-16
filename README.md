@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3340-check-balanced-string](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3340-check-balanced-string) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -477,5 +479,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 <!---LeetCode Topics End-->
