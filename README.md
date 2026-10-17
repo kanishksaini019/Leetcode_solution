@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0070-climbing-stairs) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Simulation
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1584-min-cost-to-connect-all-points) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4056-number-of-intersecting-interval-pairs-i) |
