@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4030-check-ascii-palindromic](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4030-check-ascii-palindromic) |
 ## Math
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Array
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1584-min-cost-to-connect-all-points) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0011-container-with-most-water) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Topological Sort
 |  |
 | ------- |
