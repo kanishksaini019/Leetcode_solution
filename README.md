@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4038-count-integers-appearing-in-a-single-block) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1584-min-cost-to-connect-all-points) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Greedy
 |  |
 | ------- |
