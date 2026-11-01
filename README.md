@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0070-climbing-stairs) |
+| [3870-count-commas-in-range](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4034-minimum-bishop-moves-to-reach-target) |
