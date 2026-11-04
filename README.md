@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4062-transform-array-using-pair-operations) |
