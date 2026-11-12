@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3340-check-balanced-string](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3340-check-balanced-string) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4030-check-ascii-palindromic](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4030-check-ascii-palindromic) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## String Matching
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0070-climbing-stairs) |
 | [3870-count-commas-in-range](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [3996-even-number-of-knight-moves](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3996-even-number-of-knight-moves) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4034-minimum-bishop-moves-to-reach-target) |
