@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
+| [3987-minimum-total-cost-to-process-all-elements](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [3996-even-number-of-knight-moves](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3996-even-number-of-knight-moves) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4034-minimum-bishop-moves-to-reach-target) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0735-asteroid-collision) |
+| [3987-minimum-total-cost-to-process-all-elements](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [4020-elevator-requests-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4020-elevator-requests-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3917-count-indices-with-opposite-parity) |
+| [3987-minimum-total-cost-to-process-all-elements](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [3996-even-number-of-knight-moves](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3996-even-number-of-knight-moves) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4014-minimum-total-price-after-applying-discounts) |
