@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0070-climbing-stairs) |
 | [3870-count-commas-in-range](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3959-check-good-integer](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3959-check-good-integer) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3987-minimum-total-cost-to-process-all-elements) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0735-asteroid-collision) |
+| [3959-check-good-integer](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3959-check-good-integer) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [4020-elevator-requests-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4020-elevator-requests-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
