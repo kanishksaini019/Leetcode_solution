@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4056-number-of-intersecting-interval-pairs-i) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3917-count-indices-with-opposite-parity) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [3996-even-number-of-knight-moves](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3996-even-number-of-knight-moves) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4010-maximize-pair-strength-using-gcd) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0011-container-with-most-water) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Topological Sort
 |  |
