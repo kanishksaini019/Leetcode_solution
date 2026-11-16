@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/kanishksaini019/Leetcode_solution/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/kanishksaini019/Leetcode_solution/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3340-check-balanced-string](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3340-check-balanced-string) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4030-check-ascii-palindromic](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4030-check-ascii-palindromic) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0070-climbing-stairs) |
 | [3870-count-commas-in-range](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [3996-even-number-of-knight-moves](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3996-even-number-of-knight-moves) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/kanishksaini019/Leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/kanishksaini019/Leetcode_solution/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/kanishksaini019/Leetcode_solution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bit Manipulation
